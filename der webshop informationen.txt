@@ -12,6 +12,13 @@ Was ist zu tun???
 
 1 ----- 
 Barrierefreiheitserklärung
+
+WCAG 2.2 AA 
+https://outline-rocks.github.io/wcag/translations/WCAG21-de/#abstract
+https://www.w3.org/TR/WCAG22/#captions-live
+(muss AA sein)
+
+
 2 ----- 
 Wikimedia Commons und Lizenz dokumentieren
 3 -----
