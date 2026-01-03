@@ -1,10 +1,8 @@
-Antimaterie Energy
-Neutronenstern Energy
-Schwarzes Loch Energy
-Dunkle Materie Energy
-Integer Overflow bei Koffeingehalt(?)
+"Revolution Energy"
+firma die VR-simulationen für "Interaktive Weltall-Erfahrungen" erstellt
 
-Konzernsitz: 4800 Attnang-Puchheim, Koffeinstraße 55
+
+Konzernsitz: 4800 Attnang-Puchheim
 
 
 Was ist zu tun???
@@ -23,6 +21,11 @@ https://www.w3.org/TR/WCAG22/#captions-live
 Wikimedia Commons und Lizenz dokumentieren
 3 -----
 drei Marken definieren, Wort+Bild sind nur 1
+
+1 Mustermarke
+1 Farbmarke
+1 Wortbildmarke Unternehmenslogo
+
 About-Us-Seite, die Marken erklärt, Nizzaklassen
 4 -----
 Lizenz-Seite erstellen

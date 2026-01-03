@@ -1,22 +1,111 @@
-.nav {
-  list-style: none;
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  line-height: 1.5;
+}
+
+/* Header */
+.header {
+  display: flex;
+  background: black;
+  color: white;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  border: 2px solid #4a90e2;
+}
+
+.cart-btn {
+  background: #32BEFC;
+  color: white;
+  padding: 0.8rem;
+  text-decoration: none;
+  font-weight: bold;
+  align-items: center;
+  justify-content: center;
+  width: 120px;
+  margin-right: 0;
+  margin-left:auto;
+  vertical-align: super;
+	
+}
+
+/*  */
+.offer {
+  border: 3px solid gold;
+  margin: 1rem;
+  padding: 1rem;
+	
+}
+
+/* produkte */
+.products {
+  border: 3px solid gold;
+  margin: 1rem;
+  padding: 1rem;
+}
+
+.product-grid {
+	
+  border: 3px solid gold;
+  display: grid;
+  grid-template-columns: auto auto auto;
+  gap: 1rem;
+  margin: 1rem;
+  padding: 1rem;
+}
+
+.product {
   display: flex;
   gap: 1rem;
-  padding: 0;
+  align-items: center;
 }
 
-.nav-btn {
-  display: inline-block;
-  padding: 0.6rem 1rem;
-  background-color: #0047ab;
+.img-placeholder {
+  width: 120px;
+  height: 120px;
+  background: red;
   color: white;
-  text-decoration: none;
-  border-radius: 6px;
-  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
 }
 
-.nav-btn:hover,
-.nav-btn:focus {
-  background-color: #003080;
-  outline: 2px solid #000;
+button {
+  margin-top: 0.5rem;
+  padding: 0.5rem;
+}
+
+/* fusszeile */
+.footer {
+	 background: #222;
+  color: white;
+  border: 2px solid #4a90e2;
+  padding: 1rem;
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  margin-top: 2rem;
+}
+
+.footer-btn {
+	 background: #222;
+  color: white;
+  border: 1px solid black;
+  padding: 0.5rem 1rem;
+  text-decoration: none;
+}
+
+/* Cookiebanner */
+.cookie-banner {
+  position: fixed;
+  bottom: 100px; right:50px;
+  width: 50%;
+  background: #222;
+  color: white;
+  padding: 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: left;
 }
