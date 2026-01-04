@@ -7,7 +7,19 @@ body {
  
 }
 
-/* Header */
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+
 .header {
   display: flex;
   background: black;
